@@ -1,0 +1,4 @@
+author: "MrLostman"
+delete-after: True
+changes: 
+  - balance: "borg stun prod now dusts on hit"
